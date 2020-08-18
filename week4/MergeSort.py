@@ -10,7 +10,7 @@ def mergeSort(arr):
 
         i = j = k = 0
 
-
+#mainK
         while i < len(Left) and j < len(Right):
             if Left[i] < Right[j]:
                 arr[k] = Left[i]
